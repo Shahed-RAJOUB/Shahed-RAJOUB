@@ -35,3 +35,5 @@
   <li><img src="https://emojis.slackmojis.com/emojis/images/1643508857/46375/meow_lurk.gif?1643508857" width="25" /> Pronouns: Shahd and it means honey in arabic </li>
   <li><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12722/meow_bongo_rage.gif?1643515251" width="25" />Fun fact: <b>I like competitive environments!</b></li>
 </ul>
+
+![](https://komarev.com/ghpvc/?username=Shahed-RAJOUB&label=PROFILE+VIEWS)
