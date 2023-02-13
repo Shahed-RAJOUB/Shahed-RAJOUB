@@ -27,7 +27,7 @@
 <h3>More about me: </h3>
 <ul>
 
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643514853/8661/fast_meow_party.gif?1643514853" width="25"/> I’m currently working in <b> <a href="https://atos.net/de-at/austria/">Atos</a> </b> in Robotic Process Automation department </li>
+  <li><img src="https://emojis.slackmojis.com/emojis/images/1643514853/8661/fast_meow_party.gif?1643514853" width="25"/> I’m currently working in <b> <a href="https://atos.net/de-at/austria/">Acredia</a> </b> in DevOps department as a fullstack developer</li>
   <li><img src="https://emojis.slackmojis.com/emojis/images/1643514870/8816/meow_bread_appear.gif?1643514870" width ="25" /> I’m currently learning about differnt topics : <b>Next.js , Anime.js , Rust , Tauri, Project mangement </b>.. and many more</li>
   <li><img src="https://emojis.slackmojis.com/emojis/images/1643515259/12807/meow_attentionreverse.png?1643515259" width="25" /> I’m looking to collaborate on <b> open resources </b> projects that include animations</li>
   <li><img src="https://emojis.slackmojis.com/emojis/images/1643515287/13079/meow_cloroxsip.gif?1643515287" width="25" /> Ask me about anything you would like to know about. Just send me an email: <b><a href="mailto:shahd-homs@hotmail.com">shahd-homs@hotmail.com</a></b>. You can also check my public projects, that will make me happy! <img src="https://emojis.slackmojis.com/emojis/images/1643515237/12554/meow_rolling.gif?1643515237" width="25" /></li>
