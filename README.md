@@ -24,16 +24,5 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>More about me: </h3>
-<ul>
-
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643514853/8661/fast_meow_party.gif?1643514853" width="25"/> I’m currently working in <b> <a href="https://www.acredia.at/">Acredia</a> </b> in DevOps department as a fullstack developer</li>
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643514870/8816/meow_bread_appear.gif?1643514870" width ="25" /> I’m currently learning about differnt topics : <b>Next.js , Anime.js , Rust , Tauri, Project mangement </b>.. and many more</li>
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643515259/12807/meow_attentionreverse.png?1643515259" width="25" /> I’m looking to collaborate on <b> open resources </b> projects that include animations</li>
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643515287/13079/meow_cloroxsip.gif?1643515287" width="25" /> Ask me about anything you would like to know about. Just send me an email: <b><a href="mailto:shahd-homs@hotmail.com">shahd-homs@hotmail.com</a></b>. You can also check my public projects, that will make me happy! <img src="https://emojis.slackmojis.com/emojis/images/1643515237/12554/meow_rolling.gif?1643515237" width="25" /></li>
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643517027/30793/meow_dundundun.gif?1643517027" width="25" /> How to reach me: <a href="https://www.linkedin.com/in/chahed-rajoub">Shahd Rajoub LinkedIn</a></li>
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643508857/46375/meow_lurk.gif?1643508857" width="25" /> Pronouns: Shahd and it means honey in arabic </li>
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12722/meow_bongo_rage.gif?1643515251" width="25" />Fun fact: <b>I like competitive environments!</b></li>
-</ul>
 
 ![](https://komarev.com/ghpvc/?username=Shahed-RAJOUB&label=PROFILE+VIEWS)
